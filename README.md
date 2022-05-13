@@ -14,4 +14,4 @@ Rgb(148, 0, 211) # returns 9400D3
 ```
 
 ### Unit Testing
-- Create a unit test project with to test the examples above and other scenarios
+- Create a unit test project to test the examples above and other scenarios
